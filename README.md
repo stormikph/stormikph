@@ -1,11 +1,13 @@
-### Hi I'm Stormi
+## Aloha I'm Stormi 👩🏻‍💻🌺
+📫 stormikhashimoto@gmail.com
 
+[![Linkedin: LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stormikph/)](https://www.linkedin.com/in/stormikph/)
 
-##### Let's connect!
-[![Linkedin: LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrewgunncho/)](https://www.linkedin.com/in/stormikph/)
+- 💻  I am a full-stack engineer
+- 🍧  I would love to travel
+- ☁️  I believe anyone is capable to do what makes them happy
 
 --------
-
 #### Frontend Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -15,7 +17,6 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black)
 
-
 #### Backend & Database Technologies
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
@@ -24,14 +25,12 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 
-
 #### Version Control & Dev Environment
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-
 
 #### Testing/Development/Scaling/Authentication
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)
@@ -43,3 +42,6 @@
 
 
 [![Stormi's GitHub stats](https://github-readme-stats.vercel.app/api?username=stormikph&show_icons=true&count_private=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stormikph&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=stormikph)
